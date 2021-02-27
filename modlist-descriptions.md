@@ -319,6 +319,29 @@ A re-imagining of Skyrim as a hardcore survival-adventure experience in a gritty
 
 Really, though, just [RTFM](https://github.com/apoapse1/Librum-for-Skyrim-VR/blob/main/README.md). It's very thorough.
 
+### [Auriel's Dream](https://github.com/Kvitekvist/Auriel-s-Dream)
+
+This is first and foremost a visual overhaul of SkyrimVR. The list aims to bring a bit more color to the world and a bit brither atmosphere. The core of the modlist stays very close to vanilla mechanics, but still brings in most the popular VR spesific mods. The ENB is super tweaked, textures are hand picked and often optimized further for VR.
+
+##_Active Mods to get familiar with:_##
+[Realm of Lorkhan]
+[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)
+[HIGGS](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
+[GIST](https://www.nexusmods.com/skyrimspecialedition/mods/15755)
+[Reading Is Good](https://www.nexusmods.com/skyrimspecialedition/mods/20018)
+[Unleveled Items](https://www.nexusmods.com/skyrimspecialedition/mods/254)
+[Upgrade Your Potion](https://www.nexusmods.com/skyrimspecialedition/mods/6063)
+[Simply Balanced](https://www.nexusmods.com/skyrimspecialedition/mods/15541)
+[Audiobooks of Skyrim]
+
+##_Optional Mods to get familiar with:_##
+[MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297) 
+[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374)
+[Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627) 
+[Dragonborn Speaks Naturally](https://www.nexusmods.com/skyrimspecialedition/mods/16514)
+[Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137)
+[Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1090)
+
 ***
 
 ## Fallout 4 VR
